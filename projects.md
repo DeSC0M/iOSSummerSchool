@@ -6,7 +6,7 @@
 |2|@erorrov|8. Файловый менеджер VK||
 |3|@tranina-olesya|15. Мой сад| https://github.com/tranina-olesya/MyGarden |
 |4|@CocoRyse|2. Рецепты коктейлей||
-|5|@DeSC0M|7. Просмотрщик xkcd комиксов (#2)||
+|5|@DeSC0M|7. Просмотрщик xkcd комиксов (#2)| https://github.com/DeSC0M/ComicBook |
 |6|@VictoriiaNestrugina|1. Приложение для учета выпитой воды (#2)||
 |7|@zatonskayay|14. RestRoulette||
 |8|@NikitaStudent|0. Клиент Unsplash||
